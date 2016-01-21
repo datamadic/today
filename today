@@ -1,0 +1,8 @@
+#!/bin/bash
+
+dte=`date +"%a %V %x:%X"`
+
+
+echo "$dte $@">> ~/.today
+
+
