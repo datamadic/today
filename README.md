@@ -1,6 +1,6 @@
 ##today
 
-A simple bash util to capture and list daily activities and report them back by
+A simple bash util to capture daily activities and report them back by
 day or week. 
 
 
@@ -32,5 +32,12 @@ $ yesterday
 
 Your activities are written to the plain text file `~/.today`
 
-####Windows support
+####todo
+
+* Add support for years
+* Add support for month
+* List daily activities
+
+
+####windows support
 20never
