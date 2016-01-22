@@ -20,7 +20,6 @@ To list what you did this week:
 $ thisweek
   Mon wrote some code
   Mon went to a meeting about nothing
-$
 ````
 
 To list what do did yesterday:
